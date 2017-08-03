@@ -9,4 +9,4 @@ enableRobotsTXT = true
 [params]
 loginId = "1758904"
 subfolder = ""
-reserveContent = "styles/"
+reserveContent = "style/"
